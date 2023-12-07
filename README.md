@@ -16,7 +16,12 @@
 •	Chatbot gợi ý sản phẩm
 <h2> BẢNG PHÂN CÔNG CÔNG VIỆC </h2>
 
-![image](https://github.com/T6-PTPM-2023-QuanLyVanPhongPham/PhanMemQuanLyVanPhongPham/assets/92874503/f5390513-640e-4275-97df-ab55d052eebb)
+![image](https://github.com/T6-PTPM-2023-QuanLyVanPhongPham/PhanMemQuanLyVanPhongPham/assets/92874503/f3204534-9b3a-4a07-b2c3-deae10cfd480)
+![image](https://github.com/T6-PTPM-2023-QuanLyVanPhongPham/PhanMemQuanLyVanPhongPham/assets/92874503/bf9d8f97-441c-402c-998b-9cc98e19c78a)
+![image](https://github.com/T6-PTPM-2023-QuanLyVanPhongPham/PhanMemQuanLyVanPhongPham/assets/92874503/7af92e55-4568-4cee-a964-c1a52d7a09b7)
+
+
+
 
 
 	
